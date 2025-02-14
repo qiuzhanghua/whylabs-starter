@@ -1,6 +1,6 @@
 ### learn whylogs
 
-#### 1. sunc first
+#### 1. sync first
 ```bash
 uv sync
 ```
