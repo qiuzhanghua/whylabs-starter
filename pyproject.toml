@@ -5,6 +5,8 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
+    "langkit[all]>=0.0.35",
+    "numpy>=2.2.3",
     "pandas>=2.2.3",
     "whylogs>=1.6.4",
 ]
